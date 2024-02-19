@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9adbde55-b4da-4fe8-8c9a-a2430c7c698a" name="Changes" comment="added wrapper classes">
+    <list default="true" id="9adbde55-b4da-4fe8-8c9a-a2430c7c698a" name="Changes" comment="added access modifiers">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +33,9 @@
     </option>
   </component>
   <component name="ProjectId" id="2cGqsiLH1UZj8tXYT9WUqR5e2io" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -48,6 +50,11 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.inheritance" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.App" />
@@ -147,12 +154,20 @@
       <option name="project" value="LOCAL" />
       <updated>1708179908535</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added access modifiers">
+      <created>1708181593742</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708181593742</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added non static memberes" />
     <MESSAGE value="added wrapper classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="added wrapper classes" />
+    <MESSAGE value="added access modifiers" />
+    <option name="LAST_COMMIT_MESSAGE" value="added access modifiers" />
   </component>
 </project>
